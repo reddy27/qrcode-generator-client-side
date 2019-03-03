@@ -28,5 +28,5 @@ webpack
 [Screenshot](/screenshots/you_rock_qrcode.png)
 
 <div align="center">
-    <img src="./screenshots/you_rock_qrcode.jpg" width="400px"</img> 
+    <img src="./screenshots/you_rock_qrcode.png" width="400px"</img> 
 </div>
