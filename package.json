@@ -1,0 +1,34 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "Generates QRcode on client side.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start:dev": "webpack-dev-server --open-page ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "qrcode",
+    "node",
+    "javascript",
+    "webpack"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reddy27/qrcode-generator-client-side.git"
+  },
+  "author": "pramod gaddam [gaddamdev5@gmail.com]",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "1.3.3"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "1.0.1",
+    "webpack": "4.29.6",
+    "webpack-cli": "3.2.3",
+    "webpack-dev-server": "3.2.1"
+  }
+}
