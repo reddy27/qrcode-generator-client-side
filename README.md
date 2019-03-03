@@ -1,6 +1,6 @@
 #Client side QRcode generator.
 
-#Getting started
+##Getting started
 
 1. Go to project folder and install dependencies:
  ```bash
@@ -23,7 +23,7 @@ Run
 #Scan QRCode with your smart phone camera (OR) QRCode reader, That's all!
 
 
-#Dependiences modules
+#Dependience modules
 qrcode  [ https://www.npmjs.com/package/qrcode ]
 webpack [ https://webpack.js.org/ ] 
 
