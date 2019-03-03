@@ -20,10 +20,12 @@ Run
 
 #To generate new QRCode on 'src/index.js' file replace 'you rock' string with the QRCode text which you would like. 
 
+#Scan QRCode with your smart phone camera (OR) QRCode reader, That's all!
+
 
 #Dependiences modules
-qrcode  
-webpack
+qrcode  [ https://www.npmjs.com/package/qrcode ]
+webpack [ https://webpack.js.org/ ] 
 
 [Screenshot](/screenshots/you_rock_qrcode.png)
 
