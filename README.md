@@ -1,6 +1,6 @@
 #Client side QRcode generator.
 
-##Getting started
+#Getting started
 
 1. Go to project folder and install dependencies:
  ```bash
