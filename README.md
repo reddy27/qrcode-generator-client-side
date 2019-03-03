@@ -24,5 +24,9 @@ Run
 #Dependiences modules
 qrcode  
 webpack
-# qrcode-generator-client-side
-# qrcode-generator-client-side
+
+[Screenshot](/screenshots/you_rock_qrcode.png)
+
+<div align="center">
+    <img src="./screenshots/you_rock_qrcode.jpg" width="400px"</img> 
+</div>
